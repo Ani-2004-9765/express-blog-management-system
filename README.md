@@ -28,11 +28,18 @@ A simple Blog Management System built using Node.js, Express.js, MongoDB, EJS, a
 
 ## Project Structure
 
-##output images
+## Output Images
+
 ![Login Page](images/login.png)
-![registeration page](images/register.png)
-![dashboard Page](images/dashboard.png)
-![edit Page](images/editblog.png)
-![readmore Page](images/readmore.png)
-![delete Page](images/delete.png)
-![addblog Page](images/addblog.png)
+
+![Registration Page](images/register.png)
+
+![Dashboard Page](images/dashboard.png)
+
+![Edit Page](images/editblog.png)
+
+![Read More Page](images/readmore.png)
+
+![Delete Page](images/delete.png)
+
+![Add Blog Page](images/addblog.png)
